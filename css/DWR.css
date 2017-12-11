@@ -1,0 +1,26 @@
+.left{float: left;  }
+.right{float: right;  }
+.center{text-align: center}
+
+.w22{width: 22%}
+.w50{width: 50%}
+.w45{width: 45%}
+.w55{width: 55%}
+
+.font14{font-size: 14px}
+.font16{font-size: 16px}
+.font24{font-size: 24px}
+
+.h100{height: 100%}
+.fw600{font-weight: 600}
+.re{position: relative}
+.ab{position: absolute}
+.boxsh{box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.07)}
+.none{display: none}
+
+.mt20{margin-top: 20px}
+.mt15{margin-top: 15px}
+.mb20{margin-bottom: 20px}
+.clear{clear:both}
+
+.red{ color: #e9001e;  }
